@@ -1,0 +1,4 @@
+/Users/nadezdastarikova/Desktop/Project/Task00/obj/Debug/net7.0/Task00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/Task00/obj/Debug/net7.0/Task00.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task00/obj/Debug/net7.0/Task00.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/Task00/obj/Debug/net7.0/Task00.csproj.CoreCompileInputs.cache
