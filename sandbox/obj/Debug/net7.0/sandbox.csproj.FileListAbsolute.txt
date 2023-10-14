@@ -1,0 +1,14 @@
+/Users/nadezdastarikova/Desktop/Project/sandbox/bin/Debug/net7.0/sandbox
+/Users/nadezdastarikova/Desktop/Project/sandbox/bin/Debug/net7.0/sandbox.deps.json
+/Users/nadezdastarikova/Desktop/Project/sandbox/bin/Debug/net7.0/sandbox.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Project/sandbox/bin/Debug/net7.0/sandbox.dll
+/Users/nadezdastarikova/Desktop/Project/sandbox/bin/Debug/net7.0/sandbox.pdb
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/sandbox.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/sandbox.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/sandbox.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/sandbox.dll
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/refint/sandbox.dll
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/sandbox.pdb
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/sandbox.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Project/sandbox/obj/Debug/net7.0/ref/sandbox.dll

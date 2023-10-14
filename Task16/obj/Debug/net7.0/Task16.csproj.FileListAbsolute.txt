@@ -1,0 +1,14 @@
+/Users/nadezdastarikova/Desktop/Project/Task16/bin/Debug/net7.0/Task16
+/Users/nadezdastarikova/Desktop/Project/Task16/bin/Debug/net7.0/Task16.deps.json
+/Users/nadezdastarikova/Desktop/Project/Task16/bin/Debug/net7.0/Task16.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Project/Task16/bin/Debug/net7.0/Task16.dll
+/Users/nadezdastarikova/Desktop/Project/Task16/bin/Debug/net7.0/Task16.pdb
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/Task16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/Task16.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/Task16.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/Task16.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/Task16.dll
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/refint/Task16.dll
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/Task16.pdb
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/Task16.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Project/Task16/obj/Debug/net7.0/ref/Task16.dll

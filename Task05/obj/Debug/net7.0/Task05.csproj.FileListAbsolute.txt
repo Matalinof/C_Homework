@@ -2,3 +2,13 @@
 /Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/Task05.AssemblyInfoInputs.cache
 /Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/Task05.AssemblyInfo.cs
 /Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/Task05.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task05/bin/Debug/net7.0/Task05
+/Users/nadezdastarikova/Desktop/Project/Task05/bin/Debug/net7.0/Task05.deps.json
+/Users/nadezdastarikova/Desktop/Project/Task05/bin/Debug/net7.0/Task05.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Project/Task05/bin/Debug/net7.0/Task05.dll
+/Users/nadezdastarikova/Desktop/Project/Task05/bin/Debug/net7.0/Task05.pdb
+/Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/Task05.dll
+/Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/refint/Task05.dll
+/Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/Task05.pdb
+/Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/Task05.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Project/Task05/obj/Debug/net7.0/ref/Task05.dll

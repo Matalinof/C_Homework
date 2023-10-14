@@ -1,0 +1,14 @@
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/Task19_палиндром.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/Task19_палиндром.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/Task19_палиндром.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/Task19_палиндром.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/bin/Debug/net7.0/Task19_палиндром
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/bin/Debug/net7.0/Task19_палиндром.deps.json
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/bin/Debug/net7.0/Task19_палиндром.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/bin/Debug/net7.0/Task19_палиндром.dll
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/bin/Debug/net7.0/Task19_палиндром.pdb
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/Task19_палиндром.dll
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/refint/Task19_палиндром.dll
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/Task19_палиндром.pdb
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/Task19_палиндром.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Project/Task19_палиндром/obj/Debug/net7.0/ref/Task19_палиндром.dll

@@ -1,0 +1,14 @@
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/Task04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/Task04.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/Task04.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/Task04.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task04/bin/Debug/net7.0/Task04
+/Users/nadezdastarikova/Desktop/Project/Task04/bin/Debug/net7.0/Task04.deps.json
+/Users/nadezdastarikova/Desktop/Project/Task04/bin/Debug/net7.0/Task04.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Project/Task04/bin/Debug/net7.0/Task04.dll
+/Users/nadezdastarikova/Desktop/Project/Task04/bin/Debug/net7.0/Task04.pdb
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/Task04.dll
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/refint/Task04.dll
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/Task04.pdb
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/Task04.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Project/Task04/obj/Debug/net7.0/ref/Task04.dll

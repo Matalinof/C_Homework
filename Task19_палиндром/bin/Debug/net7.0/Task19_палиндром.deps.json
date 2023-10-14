@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task19_палиндром/1.0.0": {
+        "runtime": {
+          "Task19_палиндром.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task19_палиндром/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

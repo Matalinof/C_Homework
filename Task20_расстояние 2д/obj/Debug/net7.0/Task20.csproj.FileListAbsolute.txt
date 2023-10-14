@@ -1,0 +1,18 @@
+/Users/nadezdastarikova/Desktop/Project/Task20/obj/Debug/net7.0/Task20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/Task20/obj/Debug/net7.0/Task20.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task20/obj/Debug/net7.0/Task20.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/Task20/obj/Debug/net7.0/Task20.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/bin/Debug/net7.0/Task20
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/bin/Debug/net7.0/Task20.deps.json
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/bin/Debug/net7.0/Task20.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/bin/Debug/net7.0/Task20.dll
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/bin/Debug/net7.0/Task20.pdb
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/Task20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/Task20.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/Task20.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/Task20.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/Task20.dll
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/refint/Task20.dll
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/Task20.pdb
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/Task20.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Project/Task20_расстояние 2д/obj/Debug/net7.0/ref/Task20.dll

@@ -1,0 +1,14 @@
+/Users/nadezdastarikova/Desktop/Project/Task03/bin/Debug/net7.0/Task03
+/Users/nadezdastarikova/Desktop/Project/Task03/bin/Debug/net7.0/Task03.deps.json
+/Users/nadezdastarikova/Desktop/Project/Task03/bin/Debug/net7.0/Task03.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Project/Task03/bin/Debug/net7.0/Task03.dll
+/Users/nadezdastarikova/Desktop/Project/Task03/bin/Debug/net7.0/Task03.pdb
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/Task03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/Task03.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/Task03.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/Task03.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/Task03.dll
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/refint/Task03.dll
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/Task03.pdb
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/Task03.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Project/Task03/obj/Debug/net7.0/ref/Task03.dll
